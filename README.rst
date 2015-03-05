@@ -67,7 +67,7 @@ Examples
 
 .. code:: pycon
 
-    >>> import task_01
+    >>> import task_01.peanut
     >>> if task_01.peanut.BUTTER: print 'I am truthy'
     True
 

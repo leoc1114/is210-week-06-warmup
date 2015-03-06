@@ -3,5 +3,5 @@
 """module peanut"""
 
 
-BUTTER = 'true'
-OIL = 'false'
+BUTTER = True
+OIL = False

@@ -3,6 +3,6 @@
 """module 2"""
 
 
-import task_01_peanut
+import peanut
 
-TIME = task_01_peanut.BUTTER
+TIME = peanut.BUTTER

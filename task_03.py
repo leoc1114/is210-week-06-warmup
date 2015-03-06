@@ -3,6 +3,6 @@
 """Module 3"""
 
 
-from task_01_peanut import BUTTER
+from peanut import BUTTER
 
 JELLY = BUTTER

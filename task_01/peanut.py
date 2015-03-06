@@ -3,5 +3,5 @@
 """module peanut"""
 
 
-BUTTER = 'I am Truthy'
-OIL = 'I am Falsy'
+BUTTER = 'True'
+OIL = 'False'
